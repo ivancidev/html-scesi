@@ -7,7 +7,11 @@ Este repositorio veras ejemplos de HTML para ayudarte a entender los conceptos b
 - **Barra de Navegación** 
 - **Estructuras semanticas** 
 - **Textos** 
-
+- **Contenedores**
+- **Formularios**
+- **Tabla**
+- **Multimedia** 
+- **Imagenes** 
 
 ## Requisitos
 
